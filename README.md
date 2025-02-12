@@ -40,5 +40,8 @@ Fast-loading web pages within 3-4 seconds under normal usage
 | Postcondition  | Purchased Underwear |
 | Main Senario   | Customer goes to website <br> Website Shows store <br> Customer clicks desired underwear <br> Website loads item description and reviews <br> Customer places Item in Cart <br> Customer presses the purchase button <br> Website loads payment details <br> Customer inputs payment info <br> Website takes info and sends item to delivery |
 
+![Requirement Model drawio](https://github.com/user-attachments/assets/61d7cd1f-792c-49be-b4cc-7385d046183c)
+
+
 
 
