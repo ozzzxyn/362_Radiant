@@ -30,8 +30,8 @@ Color and Design
 Comfortable
 Fast-loading web pages within 3-4 seconds under normal usage
 
-
-
+|Table||
+|--|--|
 | ID | RT-0 |
 | Name           | Buy Underwear                                                    |
 | Description    | A customer goes to our website and purchases underwear of choice |
