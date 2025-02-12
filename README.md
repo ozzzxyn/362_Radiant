@@ -1,5 +1,4 @@
-# 362_Radiant
-RADIANT THREADS
+# **RADIANT THREADS**
 Group #12
 Evan Arias
 Brian Ayala
@@ -35,19 +34,19 @@ Fast-loading web pages within 3-4 seconds under normal usage
 
 | ID | RT-0 |
 | Name | Buy Underwear |
-| Description | A customer goes to our website and purchases underwear of choice
+| Description | A customer goes to our website and purchases underwear of choice |
 | Primary Actor | Customer |
 | Precondition | Signed in |
-| Postcondition | Purchased Underwear
-| Main Senario | Customer goes to website
-               |  Website Shows store
-               | Customer clicks desired underwear
-               | Website loads item description and reviews
-               | Customer places Item in Cart
-               | Customer presses the purchase button
-               | Website loads payment details
-               | Customer inputs payment info
-               | Website takes info and sends item to delivery
+| Postcondition | Purchased Underwear |
+| Main Senario | Customer goes to website |
+               |  Website Shows store |
+               | Customer clicks desired underwear |
+               | Website loads item description and reviews |
+               | Customer places Item in Cart |
+               | Customer presses the purchase button |
+               | Website loads payment details |
+               | Customer inputs payment info |
+               | Website takes info and sends item to delivery |
 
 
 
