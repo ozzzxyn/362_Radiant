@@ -40,13 +40,13 @@ Fast-loading web pages within 3-4 seconds under normal usage
 | Precondition   | Signed in |
 | Postcondition  | Purchased Underwear |
 | Main Senario   | Customer goes to website
-                Website Shows store\s
-                Customer clicks desired underwear\s
-                Website loads item description and reviews\s
-                Customer places Item in Cart\s
-                Customer presses the purchase button\s
-                Website loads payment details\s
-                Customer inputs payment info\s
+                Website Shows store\n
+                Customer clicks desired underwear\n
+                Website loads item description and reviews\n
+                Customer places Item in Cart\n
+                Customer presses the purchase button\n
+                Website loads payment details\n
+                Customer inputs payment info\n
                 Website takes info and sends item to delivery |
 
 
