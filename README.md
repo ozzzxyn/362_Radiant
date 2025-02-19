@@ -12,7 +12,7 @@ These come in a pinch, Convenience is our top priority at Radiant Threads. For t
 Unlike MeUndies, our company provides a customizable and affordable monthly subscription for fresh pairs of underwear that allows the customer to set their own trends.
 
 ## Planning:
-**Key elements:** <br>
+**Key Elements:** <br>
 - **For:** For any consumer <br>
 - **Who:** Anyone who wants comfort and style. <br>
 - **The:** *Radiant Threads* is made of *premium quality*. <br>
@@ -26,9 +26,15 @@ Unlike MeUndies, our company provides a customizable and affordable monthly subs
 | FR01 | Monthly Subscription | Subscription model that offers flexibility to the customer as to how often underwear is desired |
 | FR02 | Review/rating | Let users post reviews under any product with a confirmed purchase |
 | FR03 | Online Shopping cart | Displays all products being purchased |
-| FR04 | Account creation with Google sign-in | Allows convenient sign-in to users |
-| FR05 | Filter/Sort | Let products be sorted based on material, design, and brand |
-| FR06 | 24/7 Customer Support | Any comments, questions, and concerns can be directed to a live chat with a representative |
+| FR04 | Google Sign-Up | Allows convenient sign-in to users |
+| FR05 | Search | Search for products |
+| FR06 | Filter/Sort | Let products be sorted based on material, design, and brand |
+| FR07 | 24/7 Customer Support | Any comments, questions, and concerns can be directed to a live chat with a representative |
+| FR08 | Account Creation | Create a account |
+| FR09 | Account Login | Login to an existing account |
+| FR10 | User Information | Save payment information/Shipping Address |
+| FR11 | Search Results | Displays search results |
+| FR12 | Product Page | Displays any selected product |
 
 ## Non-Functional Features
 | **Code** | **Title** | **Description** |
@@ -36,11 +42,14 @@ Unlike MeUndies, our company provides a customizable and affordable monthly subs
 | NFR01 | Adjusting algorithm | Subscription model that offers flexibility to the customer as to how often underwear is desired |
 | NFR02 | Easily Manufactured clothing | Let users post reviews under any product with a confirmed purchase |
 | NFR03 | Fast-loading web pages | Displays all products being purchased |
-| NFR04 | Underwear types | Allows convenient sign-in to users |
-| NFR05 | Secure user data | Let products be sorted based on material, design, and brand |
+| NFR04 | Underwear types | Underwear is offered in many different materials, colors, and collaborations |
+| NFR05 | Security | User data is securely stored away from theats |
+| NFR06 | Order Completion | Confirm and Ship Orders |
+| NFR07 | Employee Access | Allow employees to access multiple aspects of business and fufill orders |
 
+## Flowchart
+![Requirement Model-Page-2 drawio (1)](https://github.com/user-attachments/assets/09c4cc60-5c83-42af-85c4-14f726dd8d14)
 
-![Requirement Model drawio](https://github.com/user-attachments/assets/61d7cd1f-792c-49be-b4cc-7385d046183c)
 
 
 
