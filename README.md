@@ -20,36 +20,24 @@ Unlike MeUndies, our company provides a customizable and affordable monthly subs
 - **Unlike:** MeUndies, we offer more monthly pairs at a much-reduced cost, with any subscription frequency. <br>
 - **Our product:** Combines luxury and creativity to empower customer to set their trend of choice for their underwear, even allowing the customer to try on the underwear for a week to confirm if they like it. <br>
 
-## Functional Features
-- Monthly Subscription for fresh pairs of underwear
-  - Subscription model that offers flexibility to the customer as to how often underwear is desired
-- Review/rating system
-  - Let users post reviews under any product with a confirmed purchase
-- Online Shopping cart
-  - Displays all products being purchased
-- Account creation with Google sign-in
-  - Allows convenient sign-in to users
-- Filter/Sort
-  - Let products be sorted based on material, design, and brand
-- 24/7 Customer Support
-  - Any comments, questions, and concerns can be directed to a live chat with a representative
+## **Functional Features**
+| **Code** | **Title** | **Description** |
+| --- | --- | --- |
+| FR01 | Monthly Subscription | Subscription model that offers flexibility to the customer as to how often underwear is desired |
+| FR02 | Review/rating | Let users post reviews under any product with a confirmed purchase |
+| FR03 | Online Shopping cart | Displays all products being purchased |
+| FR04 | Account creation with Google sign-in | Allows convenient sign-in to users |
+| FR05 | Filter/Sort | Let products be sorted based on material, design, and brand |
+| FR06 | 24/7 Customer Support | Any comments, questions, and concerns can be directed to a live chat with a representative |
 
 ## Non-Functional Features
-- Adjusting algorithm to match the desired preference of underwear
-  - Targets customers by suggesting different pairs, based on design and material
-- Easily Manufactured clothing
-  - Production will be high quality and cheap
-- Fast-loading web pages
-  - Entire website is fast to access and load, based on load
-- Underwear types
-  - Offer customers many variety and collaboration
-- Secure user data
-  - Storing of user data is secured and encrypted
-
-
-
-
-
+| **Code** | **Title** | **Description** |
+| --- | --- | --- |
+| NFR01 | Adjusting algorithm | Subscription model that offers flexibility to the customer as to how often underwear is desired |
+| NFR02 | Easily Manufactured clothing | Let users post reviews under any product with a confirmed purchase |
+| NFR03 | Fast-loading web pages | Displays all products being purchased |
+| NFR04 | Underwear types | Allows convenient sign-in to users |
+| NFR05 | Secure user data | Let products be sorted based on material, design, and brand |
 
 
 ![Requirement Model drawio](https://github.com/user-attachments/assets/61d7cd1f-792c-49be-b4cc-7385d046183c)
